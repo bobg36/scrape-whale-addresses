@@ -1,0 +1,9 @@
+1. go to page 1 -> right click on table -> 'table-to-spreadsheet' (chrome plugin) -> 'csv'
+	- have to do separately for 1-19 and 20-100 for some reason
+	- save to txt file called 'page1.txt'
+
+2. run 'scrape number1.py'
+
+3. run '101-1000_scrape_address.ipynb' (.py isnt working for some reason)
+
+4. join the 2 resulting files (address_list_date.txt and address_list.page1.txt)
